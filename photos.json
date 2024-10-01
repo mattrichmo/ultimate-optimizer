@@ -1,0 +1,39 @@
+{
+    "photos": [{
+        "original": {
+            "path": "",
+            "size": {
+                "w": 0,
+                "h": 0,
+                "kb": 0
+            },
+            "optimized": {
+                "path": "",
+                "size": {
+                    "w": 0,
+                    "h": 0,
+                    "kb": 0
+                }
+            },
+            "min": {
+                "path": "",
+                "size": {
+                    "w": 0,
+                    "h": 0,
+                    "kb": 0
+                }
+            }
+        }
+    }
+],
+"series": [{
+    "seriesName": "Forest Fractals",
+    "slug": "forest-fractals",
+    "description": "A series highlighting natural patterns and symmetries found in forests.",
+    "intentPurpose": "To showcase both the symmetry and asymmetry inherent in nature's designs.",
+    "year": 2024,
+    "frontPage": true,
+    "keywords": []
+}]
+
+}
